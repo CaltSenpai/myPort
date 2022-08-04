@@ -338,9 +338,7 @@ body.dark-theme {
   padding: .5rem;
 }
 
-.projects__card:hover .projects__modal {
-  bottom: 0;
-}
+
 
 
 /*=============== FOOTER ===============*/
